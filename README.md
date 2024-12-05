@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am a student currently studying at Uppsala university. My major is data analysis.
 <!--
 **Morioxd/morioxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
